@@ -2,7 +2,7 @@
 Responsive pricing table with HTML & CSS Flexbox. Layout adjusts for desktop (plans in a row) and mobile (stacked plans) to enhance readability and usability. Features "Basic," "Standard," and "Premium" plans.
 
 
-Visit: 
+Visit: https://alisameed32.github.io/Flexbox-Pricing-Table/
 
 Project Objective:
 
